@@ -33,4 +33,4 @@
     * LPT_to_SPT.py - EvoSortClsEnvLPT с SPT динамично избиране
     * SPT_to_LPT.py - EvoSortClsEnvSPT с LPT динамично избиране
     * SPT_to_SPT.py - EvoSortClsEnvSPT с SPT динамично избиране
-
+* common - Общи функции и класове
