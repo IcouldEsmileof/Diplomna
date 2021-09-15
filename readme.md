@@ -1,4 +1,4 @@
-**If you randomly found this project, the text below will not have any meaning for you, so jsut skip it.**
+**If you randomly found this project, the text below will not have any meaning for you, so just skip it.**
 
 * EVR - Решения 1-6
   * single_sort - Решения 1 и 2
